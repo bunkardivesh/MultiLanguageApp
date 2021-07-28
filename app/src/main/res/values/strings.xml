@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">MultiLanguageApp</string>
+    <string name="msg_welcome" translatable="false">Welcome to App!</string>
+    <string name="label_btn_english" translatable="false">Open Next Activity in English</string>
+    <string name="label_btn_hindi" translatable="false">Open Next Activity in Hindi</string>
+    <string name="msg_learning">Hello Everyone! I am learning how to change the App Locale. Having fun in learning this.</string>
+</resources>
